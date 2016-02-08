@@ -1,0 +1,1 @@
+Solution for the "Manage Packages with NPM" lesson from FreeCodeCamp.
