@@ -1,14 +1,9 @@
 {
   "name": "@adcoelho/workspace",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": ",-----.,--.                  ,--. ,---.   ,--.,------.  ,------.     '  .--./|  | ,---. ,--.,--. ,-|  || o   \\  |  ||  .-.  \\ |  .---'     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \\  :|  `--,      '  '--'\\|  |' '-' ''  ''  '\\ `-' | .'  /   |  ||  '--'  /|  `---.      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'     -----------------------------------------------------------------",
   "main": "server.js",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2",
-    "async": "^0.2.10",
-    "express": "^3.2.6",
-    "socket.io": "^0.9.17"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "node test.js",
@@ -16,5 +11,5 @@
   },
   "author": "",
   "license": "ISC",
-  "repository": "https://github.com/adcoelho/npm-test-module"  
+  "repository": "https://github.com/adcoelho/npm-test-module"
 }
